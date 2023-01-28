@@ -1,0 +1,12 @@
+
+{
+"insName":"Ramesh Kumar",
+"salary":2000,
+"domain":"Database",
+"profile":{
+    "email":"ramesh@gmail.com",
+    "phone" : 9654144814,
+    "address": "ABC-New Delhi",
+    "cityName":"New Delhi"
+}
+}
